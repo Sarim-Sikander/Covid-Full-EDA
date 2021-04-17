@@ -1,2 +1,4 @@
 # Covid-Full-EDA
 Covid 2019 full EDA on Worldwide covid dataset
+
+**FOR DATASET SEARCH GOOGLE FOR "COVID 2019 FULL DATASET" ON KAGGLE YOU WILL FIND IT**
